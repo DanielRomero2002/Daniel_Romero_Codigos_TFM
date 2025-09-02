@@ -85,7 +85,7 @@ durante un pequeño periodo de tiempo.
 
 ## 📈 Objetivos del TFM
 
-- [Breve descripción de los objetivos principales del TFM, por ejemplo: “Aplicar técnicas de machine learning para analizar datos de ...”]
+El objetivo principal de este TFM fue el de desarrollar herramientas computacionales capaces de distinguir cambios en el comportamiento estructural y fibrilar del colágeno escleral cuando se le aplicaba el tratamiento SCXL a ojos de cerdo. Para poder extraer conclusiones y entender que ocurre a un nivel más profundo cuando se aplica esta técnica y, al ser esta efectiva con el tratamiento de la miopía, ayudar a comprender esta enfermedad ocular.
 
 ## 🏅 Autor
 
@@ -103,6 +103,7 @@ Universidad Complutense de Madrid
    ```
 2. Abre los notebooks con Jupyter y sigue las instrucciones incluidas en cada uno.
 
+3. Se pueden en la mayoría ver los códigos directamente en el github, pero algunos debido a su peso se tienen que descargar y verlos en tu ordenador. Algunos casos particulares no tienen las imágenes con los resultados ya que excedían el peso para publicarlos en github.
 ---
 
 > Si tienes alguna duda, sugerencia o quieres colaborar, no dudes en contactar conmigo.
