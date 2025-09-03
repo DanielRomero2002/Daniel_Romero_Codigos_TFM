@@ -10,6 +10,8 @@ Este proyecto recopila el código utilizado para el TFM realizado en el Máster 
 
 - **Notebooks:** Documentos interactivos con el desarrollo paso a paso de los experimentos y análisis. Tener en cuenta que los notebooks que se muestran son los usados sin ningún tipo de retoque, por lo que se ve cual fue la evolución de las herramientas y normalmente en las últimas líneas se llega al código que finalmente se emplea. Además, hay notebooks que debido a su tamaño hemos tenido que eliminar los resultados gráficos que proporcionaban ya que sino resultaba imposible subirlo a Github.
 
+-**Librerías:** para este proyecto ha resultado fundamental emplear librerías de python las cuales han ayudado profundamente a realizar con mayor rapidez y simpleza todos los códigos. Entre estas librerías podemos destacar a numpy, scipy y orientationpy.
+
 - **Datos (no incluidos):** Los notebooks están preparados para trabajar con los datos del TFM, que por razones de privacidad no se distribuyen en este repositorio.
 
 
